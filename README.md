@@ -1,6 +1,24 @@
 # SwimMMTimeKeeperCards
 A python utility to generate timekeeper cards from Swim Meet Manager files
 
+## Purpose 
+Generates Time Keeper Cards:
+
+<img width="546" height="787" alt="image" src="https://github.com/user-attachments/assets/5ec9959f-fd05-4b6c-8695-d054a1dc6348" />
+
+Judge Slips:
+
+<img width="588" height="830" alt="image" src="https://github.com/user-attachments/assets/51e09487-3181-4a2f-b88e-f0bdd3ceb361" />
+
+and a Register:
+
+<img width="571" height="830" alt="image" src="https://github.com/user-attachments/assets/f978513a-430d-4a87-baf7-42959037d1cc" />
+
+for a swim meet from Meet Manager data.
+
+
+
+
 ## How to use
 To generate the time keeper cards, after a meet is set up in Meet Manager, click on Reports, and then select Lane/Timer sheets.
 In the screen that follows, click Select All, and then Create Report.
